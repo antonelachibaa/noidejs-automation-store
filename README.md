@@ -1,0 +1,1 @@
+# noidejs-automation-store
